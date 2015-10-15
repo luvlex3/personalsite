@@ -1,0 +1,62 @@
+  body {
+      background-color: none;
+background-image: url(https://unsplash.com/photos/EeEx8zpOESA/download);
+      background-position: center center;
+      background-repeat: no-repeat;
+      background-attachment: fixed;
+      background-size: cover;
+       background-color: 
+        margin: 0;
+        padding: 0;
+        font-family: curlz mt, sans-serif;
+      font-size: 25px;
+      font-weight: bold; 
+    
+        
+    }
+    div {
+        width: 900px;
+        margin: 15em auto;
+        padding: 10px;
+       
+        border-radius: 50em;
+
+        border-color: none;
+        text-align: center 
+        
+        
+    }
+    a:link, a:visited {
+        color: black;
+        text-decoration: none;
+        font-size: 25px
+       
+    }
+    @media (max-width: 700px) {
+        body {
+            background-color: white;
+        }
+        div {
+            width: auto;
+            margin: 0 auto;
+            border-radius: 0;
+            padding: 1em;
+        }
+    } 
+h1 {
+color: black;
+text-shadow: 3px 3px 1px green;
+}
+p {
+color: black;
+}
+div {
+color: chartreuse;
+}
+#profilepic {
+    width: 200%;
+}
+#profilepic img {
+width: 100%;
+height: auto;
+}
